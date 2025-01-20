@@ -6,7 +6,7 @@ export default function Home() {
 
     Rajvi<br></br>
     Aarti<br></br>
-    Mudra
+    Mudra 
     
     
     </>
